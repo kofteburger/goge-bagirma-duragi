@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Göğe Bağırma Durağı",
     "description": "",
-    "home_page_url": "https://github.com/kofteburger/goge-bagirma-duragi",
-    "feed_url": "https://github.com/kofteburger/goge-bagirma-duragi/feed.json",
+    "home_page_url": "https://kofteburger.github.io/goge-bagirma-duragi",
+    "feed_url": "https://kofteburger.github.io/goge-bagirma-duragi/feed.json",
     "user_comment": "",
     "author": {
         "name": "mko"
     },
     "items": [
         {
-            "id": "https://github.com/kofteburger/goge-bagirma-duragi/muvaffakiyetsizlestiricilestiriveremeyebileceklerimizdenmissinizcesine.html",
-            "url": "https://github.com/kofteburger/goge-bagirma-duragi/muvaffakiyetsizlestiricilestiriveremeyebileceklerimizdenmissinizcesine.html",
+            "id": "https://kofteburger.github.io/goge-bagirma-duragi/muvaffakiyetsizlestiricilestiriveremeyebileceklerimizdenmissinizcesine.html",
+            "url": "https://kofteburger.github.io/goge-bagirma-duragi/muvaffakiyetsizlestiricilestiriveremeyebileceklerimizdenmissinizcesine.html",
             "title": "Muvaffakiyetsizleştiricileştiriveremeyebileceklerimizdenmişsinizcesine ",
             "author": {
                 "name": "mko"
