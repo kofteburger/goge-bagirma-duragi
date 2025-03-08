@@ -3,7 +3,7 @@
     <title>Göğe Bağırma Durağı</title>
     <link href="https://kofteburger.github.io/goge-bagirma-duragi/feed.xml" rel="self" />
     <link href="https://kofteburger.github.io/goge-bagirma-duragi" />
-    <updated>2025-03-08T17:30:42+03:00</updated>
+    <updated>2025-03-08T17:32:57+03:00</updated>
     <author>
         <name>mko</name>
     </author>
@@ -163,16 +163,19 @@
         </author>
         <link href="https://kofteburger.github.io/goge-bagirma-duragi/goegre-bagirma-duragi-nedir/"/>
         <id>https://kofteburger.github.io/goge-bagirma-duragi/goegre-bagirma-duragi-nedir/</id>
+        <media:content url="https://kofteburger.github.io/goge-bagirma-duragi/media/posts/2/00002-2025-03-07.png" medium="image" />
             <category term="Meta"/>
 
         <updated>2025-03-04T06:20:40+03:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://kofteburger.github.io/goge-bagirma-duragi/media/posts/2/00002-2025-03-07.png" alt="Bazen Böyle Hissediyorum" />
                     Bazen hayatı anlamakta zorlanıyorsun. Bir şeylere sinirleniyorsun, hayal kırıklığına uğruyorsun, belki de sadece garipsiyorsun ama sonra fark ediyorsun ki, asıl garip olan sensin. İşte Göğe&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://kofteburger.github.io/goge-bagirma-duragi/media/posts/2/00002-2025-03-07.png" class="type:primaryImage" alt="Bazen Böyle Hissediyorum" /></p>
                 <p data-pm-slice="1 1 []">Bazen hayatı anlamakta zorlanıyorsun. Bir şeylere sinirleniyorsun, hayal kırıklığına uğruyorsun, belki de sadece garipsiyorsun ama sonra fark ediyorsun ki, asıl garip olan sensin.</p>
 <p>İşte <em>Göğe Bağırma Durağı</em> tam olarak bu farkındalığın durağı. Normal bir insan ya garip olduğunu kabul eder ve hayatına öyle devam eder ya da değişmeye çalışır. Ben ise aklımdaki, parçalanmış ve artık çoğu pişmanlık ya da öfke ile dolu düşünce kırıntılarını burada topluyorum.</p>
 <p>Hayatta öyle bir noktaya geliyorsun ki, düşlediğin dünya ile gerçek dünyanın arasındaki perde kalkıyor ya da bazen gerçekle barışıkken fark ediyorsun ki o gerçek çoktan geçmişte kalmış. Bunları gören biri olarak bazen kendini "göğe bağıran" biri gibi hissetmemek elde değil. Ama bunu fark ettiğin an, gerçekten bir şey değişiyor mu?</p>
