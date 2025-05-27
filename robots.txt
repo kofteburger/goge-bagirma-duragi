@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: http://blog.mko.me/sitemap.xml
+Sitemap: https://blog.mko.me/sitemap.xml
